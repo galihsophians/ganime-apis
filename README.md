@@ -502,5 +502,5 @@ If you discover any issues or have suggestions for improvement, please open an i
 >### Support
 If you like the project feel free to drop a star ✨. Your appreciation means a lot.
 
-<p align="center" style="text-decoration: none;">Made by <a href="https://github.com/itzzzme" target="_blank">itzzzme 
+<p align="center" style="text-decoration: none;">Edited by <a href="https://github.com/g-silvers" target="_blank">g-silvers 
 </a>🫰</p>
